@@ -1,0 +1,14 @@
+[
+{"id":1,"name":"Cedar Growth Equity Fund","category":"Equity","three_year_return":14.5,"expense_ratio":0.65,"risk_level":"High"},
+{"id":2,"name":"Harbor Bluechip Fund","category":"Equity","three_year_return":12.8,"expense_ratio":0.72,"risk_level":"High"},
+{"id":3,"name":"Maple Flexi Cap Fund","category":"Equity","three_year_return":13.2,"expense_ratio":0.81,"risk_level":"High"},
+{"id":4,"name":"Summit Small Cap Fund","category":"Equity","three_year_return":18.1,"expense_ratio":0.93,"risk_level":"High"},
+{"id":5,"name":"Willow Corporate Bond Fund","category":"Debt","three_year_return":7.2,"expense_ratio":0.38,"risk_level":"Low"},
+{"id":6,"name":"Beacon Short Duration Fund","category":"Debt","three_year_return":6.6,"expense_ratio":0.31,"risk_level":"Low"},
+{"id":7,"name":"Orchard Gilt Fund","category":"Debt","three_year_return":7.8,"expense_ratio":0.44,"risk_level":"Moderate"},
+{"id":8,"name":"River Liquid Fund","category":"Debt","three_year_return":5.8,"expense_ratio":0.19,"risk_level":"Low"},
+{"id":9,"name":"Meadow Balanced Advantage Fund","category":"Hybrid","three_year_return":10.4,"expense_ratio":0.69,"risk_level":"Moderate"},
+{"id":10,"name":"Horizon Equity Savings Fund","category":"Hybrid","three_year_return":8.7,"expense_ratio":0.55,"risk_level":"Moderate"},
+{"id":11,"name":"Pine Aggressive Hybrid Fund","category":"Hybrid","three_year_return":11.6,"expense_ratio":0.76,"risk_level":"High"},
+{"id":12,"name":"Granite Conservative Hybrid Fund","category":"Hybrid","three_year_return":8.1,"expense_ratio":0.47,"risk_level":"Moderate"}
+]
