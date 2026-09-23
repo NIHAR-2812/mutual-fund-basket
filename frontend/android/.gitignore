@@ -1,0 +1,8 @@
+/gradle/wrapper/gradle-wrapper.jar.sha256
+/local.properties
+/.gradle/
+/captures/
+/key.properties
+*.keystore
+*.jks
+/app/google-services.json
